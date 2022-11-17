@@ -797,6 +797,7 @@ background-position-y: 70px;
     margin: 0;
     list-style: none;
     position: absolute;
+    left: 0;
     top: 88%;
     width: 100%;
     text-align: center;
