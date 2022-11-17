@@ -739,7 +739,7 @@ background-position-y: 70px;
     margin-right: auto;
     overflow: hidden;
     text-align: center;
-    float: left;
+    float: center;
 }
 
 .team_area span {
