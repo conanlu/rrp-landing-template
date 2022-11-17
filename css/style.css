@@ -756,6 +756,7 @@ background-position-y: 70px;
 .team_box {
     text-align: center;
     border-radius: 50%;
+    position: relative;
     margin: 0px 3px 25px 3px;
 }
 /*
