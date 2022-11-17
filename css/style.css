@@ -537,9 +537,6 @@ a.contact_btn:hover {
     text-decoration: none;
 }
 
-img {
-    max-width: 100%;
-}
 
 /* no transition on .isotope container */
 
@@ -785,7 +782,6 @@ background-position-y: 70px;
 .team_box img {
     display: block;
     border-radius: 0%;
-    width: 90%;
     margin: 0 auto;
 }
 
@@ -1250,10 +1246,7 @@ margin-bottom: 5px;
     position: relative;
 }
 
-.portfolio-item .portfolio_img img {
-    width: 100%;
-    height: auto;
-}
+
 
 .portfolio-item:hover .item_overlay {
     opacity: 1;
