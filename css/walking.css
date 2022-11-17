@@ -8,7 +8,7 @@ body{
     width: 150px;
     height: 354px;
     animation:walk 1s steps(9) infinite,
-                forward 5s linear infinite;
+                forward 4s linear infinite;
 
 }
 
