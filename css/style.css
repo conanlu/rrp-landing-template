@@ -725,10 +725,14 @@ background-position-y: 70px;
 .team_section {
     max-width: 993px;
     margin-top: 50px;
-	margin-bottom: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .team_area {
+    width: 30.66%;
+    margin-right: 3.82979%; 
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
@@ -748,9 +752,7 @@ background-position-y: 70px;
 }
 
 .team_box {
-    width: auto;
-    height: auto;
-    align: center;
+    text-align: center;
     border-radius: 50%;
     margin: 0px 3px 25px 3px;
 }
