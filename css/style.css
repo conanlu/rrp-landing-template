@@ -49,7 +49,7 @@ a, a:hover, a:active {
 /* Styles
 ---------------------------------*/
 body {
-    background-color: rgb(62, 62, 62);
+    background-color: rgb(83, 83, 83);
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: normal;
@@ -1070,7 +1070,7 @@ margin-bottom: 5px;
 
 .footer_bottom span a {
     display: inline-block;
-    color: #ff0000;
+    color: #ade4ff;
     font-size: 16px;
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -1768,7 +1768,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background:#ff0000;
+background:#8ed9ff;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
