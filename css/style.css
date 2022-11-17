@@ -67,7 +67,6 @@ h2 {
     font-weight: normal;
     margin: 0px 0 25px 0;
     text-align: center;
-    text-transform: uppercase;
 }
 
 h3 {
@@ -867,7 +866,6 @@ margin-bottom: 5px;
     font-size: 40px;
     color: #ffffff;
     margin: 0 0 50px 0;
-    text-transform: uppercase;
 }
 
 .contact_block {
@@ -1211,7 +1209,6 @@ margin-bottom: 5px;
     letter-spacing: -1px;
     margin: 0 0 15px;
     text-align: center;
-    text-transform: uppercase;
 }
 
 .section-title span {
