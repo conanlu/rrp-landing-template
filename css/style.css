@@ -743,6 +743,7 @@ background-position-y: 70px;
 }
 
 .team_area span {
+    margin-top: 20px;
     margin-bottom: 24px;
     text-align: center;
     display: block;
