@@ -49,7 +49,7 @@ a, a:hover, a:active {
 /* Styles
 ---------------------------------*/
 body {
-    background-color: #fff;
+    background-color: rgb(62, 62, 62);
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: normal;
