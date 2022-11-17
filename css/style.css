@@ -643,7 +643,8 @@ a.contact_btn:hover {
 
 .page_section.team {
     padding: 60px 0;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .page_section.team h6 {
@@ -732,7 +733,6 @@ background-position-y: 70px;
 
 .team_area {
     width: 30.66%;
-    margin-right: 3.82979%; 
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
