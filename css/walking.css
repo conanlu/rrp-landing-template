@@ -21,6 +21,6 @@ body{
 }
 
 @keyframes forward{
-    0%{transform:translateX(-100px);}
+    0%{transform:translateX(0px);}
     100%{transform:translateX(1200px);}
 }
