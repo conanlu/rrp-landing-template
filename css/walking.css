@@ -5,10 +5,10 @@ body{
 #runner{
     background:url(../img/walking.png);
 
-    width:201px;
-    height: 330px;
+    width:210px;
+    height: 340px;
     animation:walk 1s steps(9) infinite,
-                forward 5s linear infinite;
+                forward 3s linear infinite;
 
 }
 
