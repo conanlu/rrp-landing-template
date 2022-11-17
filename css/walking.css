@@ -5,7 +5,7 @@ body{
 #runner{
     background:url(../img/walking.png);
 
-    width: 150px;
+    width: 200px;
     height: 354px;
     animation:walk 1s steps(8) infinite,
                 forward 5s linear infinite;
@@ -21,6 +21,6 @@ body{
 }
 
 @keyframes forward{
-    0%{transform:translateX(0px);}
+    0%{transform:translateX(10px);}
     100%{transform:translateX(1200px);}
 }
