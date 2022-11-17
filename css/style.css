@@ -734,12 +734,12 @@ background-position-y: 70px;
 }
 
 .team_area {
-    width: 30.66%;
+    width: 35.66%;
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
     text-align: center;
-    float: right;
+    float: left;
 }
 
 .team_area span {
