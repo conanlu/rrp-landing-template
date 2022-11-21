@@ -51,11 +51,11 @@ a, a:hover, a:active {
 /* Styles
 ---------------------------------*/
 body {
-    background-color: #222222;
+    background-color: #292a30;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-weight: normal;
-    color: #888888;
+    color: #6c6c6c;
     margin: 0;
 }
 
@@ -94,7 +94,7 @@ p {
 ---------------------------------*/
 
 #header_wrapper {
-    background: #141414;
+    background:  #191a1e;
     padding: 20px 0px;
 }
 
@@ -208,18 +208,18 @@ p {
 /* Top_content
 ---------------------------------*/
 
-.top_cont_outer {
-    background: #9cbdff;
-    position: relative;
-	background:linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../img/teambannerdraft2.png) top center no-repeat;
-	height:650px;
-}
 
 .hero_section {
     position: relative;
     padding-top: 100px;
 }
 
+.top_cont_outer {
+    background-color: #4466ab;
+    position: relative;
+	background:linear-gradient(rgba(0, 0, 0, 0), rgba(100, 100, 130, 10)), url(../img/teambannerdraft2.png) top center no-repeat;
+	height:650px;
+}
 .white_pad {
     position: relative;
     right: 0px;
@@ -1706,7 +1706,7 @@ background-position-y: 150px;
 }
 @media (max-width: 768px) {
 .aboutUs-container{
-	background-image:none;
+	background-color: #f7f7f7;
 }
 p{
 font-size:14px;
