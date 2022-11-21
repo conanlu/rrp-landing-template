@@ -77,12 +77,13 @@ h3 {
 }
 
 h6 {
-    font-size: 16px;
-    color: #888888;
+    font-size: 15px;
+    color: #a4a4a4;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     text-align: center;
-    margin: 0 0 60px 0;
+    margin: 0 0 50px 0;
+    line-height: 1.5;
 }
 
 p {
@@ -1805,6 +1806,24 @@ background: #F9F9F9;
 .team_area {
 width: 99%;
 }
+}
+
+
+#album1button{
+    background:url(../img/andrew.png);
+    margin-top: 222px;
+    width: 130px;
+    height: 235px;
+}
+
+
+#hid{
+    background:url(../img/andrew.png);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 1200px;
+    display:none;
 }
 
 
